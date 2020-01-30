@@ -1,0 +1,49 @@
+ body{
+ 	background-color: #478bcc;
+ }
+ h2{
+
+ 	margin-bottom: 20px;
+    font-weight: 90;
+    color:#46515c;
+	}
+
+ input { width: 250px;
+	   height: 30px;
+	   margin-top: 10px;
+	   margin-bottom: 10px;
+	   border-radius: 4px;
+	   font-size: 12px;
+	   border: 0.5px;
+	   border-color: #edf0f2;
+	}
+
+ label {color: #000000;
+ 	   font-size: 12px;
+ 	   font-family: arial;
+ 	}
+
+
+ p>input { margin: auto; 
+		width: 15px;
+		height: 15px;
+	}
+
+
+ button{
+    width: 360px;
+    height: 60px;
+    background-color: red;
+    border-radius: 4px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ span { color: #46515c;
+ 	    font-family: Arial;
+ 	    font-size: 12px;
+ 	    margin-left: 0px;
+ 	    margin-top: 20px;
+ }
